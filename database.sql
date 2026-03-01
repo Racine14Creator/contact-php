@@ -1,4 +1,5 @@
 CREATE DATABASE IF NOT EXISTS contact_manager;
+
 USE contact_manager;
 
 CREATE TABLE IF NOT EXISTS contacts (
